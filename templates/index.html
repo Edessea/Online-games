@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Play the Ultimate Trivia Challenge and Guessing Game online!">
+    <title>Arcade Portal</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Fira+Code:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+    <div class="blob blob-3"></div>
+
+    <main class="glass-panel" id="app-container">
+        
+        <!-- MAIN MENU -->
+        <section id="main-menu" class="view active">
+            <h1 class="glitch" data-text="ARCADE PORTAL">ARCADE PORTAL</h1>
+            <p class="subtitle">Select a game to terminalize your boredom</p>
+            
+            <div class="game-cards">
+                <div class="card" onclick="app.showView('guessing-game')">
+                    <div class="card-icon">🔢</div>
+                    <h2>Guessing Game</h2>
+                    <p>I'm thinking of a number between 1 and 100. Dare to guess?</p>
+                </div>
+                <div class="card" onclick="app.showView('trivia-menu')">
+                    <div class="card-icon">🧙‍♂️🚲</div>
+                    <h2>Ultimate Trivia</h2>
+                    <p>Harry Potter vs Stranger Things. Are you a true master?</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- GUESSING GAME -->
+        <section id="guessing-game" class="view">
+            <button class="back-btn" onclick="app.showView('main-menu')">← Back</button>
+            <h2>🔢 The Guessing Game</h2>
+            <p class="subtitle">I'm thinking of a number between 1 and 100.</p>
+            
+            <div class="game-area">
+                <button class="action-btn" id="start-guess-btn" onclick="app.startGame('guess')">Start Game</button>
+                
+                <div id="guess-play-area" class="hidden">
+                    <div class="terminal-output" id="guess-log"></div>
+                    <div class="input-group">
+                        <span class="prompt">></span>
+                        <input type="number" id="guess-input" placeholder="Take a guess..." onkeypress="app.handleGuessEnter(event)">
+                        <button class="action-btn small" onclick="app.submitGuess()">Submit</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- TRIVIA MENU -->
+        <section id="trivia-menu" class="view">
+            <button class="back-btn" onclick="app.showView('main-menu')">← Back</button>
+            <h2>✨🧙‍♂️ Ultimate Trivia 🚲🔦</h2>
+            <p class="subtitle">Select your difficulty level</p>
+            
+            <div class="difficulty-buttons">
+                <button class="diff-btn easy" onclick="app.startTrivia('easy')">Easy 🟢</button>
+                <button class="diff-btn medium" onclick="app.startTrivia('medium')">Medium 🟡</button>
+                <button class="diff-btn hard" onclick="app.startTrivia('hard')">Hard 🔴</button>
+            </div>
+        </section>
+
+        <!-- TRIVIA GAME -->
+        <section id="trivia-game" class="view">
+            <button class="back-btn" onclick="app.showView('trivia-menu')">← Quit</button>
+            <div class="status-bar">
+                <span id="trivia-progress">Question 1/10</span>
+                <span id="trivia-score">Score: 0</span>
+            </div>
+            
+            <div class="question-container" id="trivia-q-box">
+                <!-- Question injected via JS -->
+            </div>
+            
+            <div class="terminal-output art-box hidden" id="trivia-art-box"></div>
+            
+            <div class="trivia-options" id="trivia-options">
+                <!-- Options injected via JS -->
+            </div>
+
+            <button id="trivia-next-btn" class="action-btn full hidden" onclick="app.nextTrivia()">Next Question →</button>
+        </section>
+
+        <!-- TRIVIA END -->
+        <section id="trivia-end" class="view">
+            <button class="back-btn" onclick="app.showView('main-menu')">← Main Menu</button>
+            <h2>🏆 Game Over! 🏆</h2>
+            <h1 id="trivia-final-score" class="gradient-text">10/10</h1>
+            <p id="trivia-final-msg" class="subtitle">🌟 Outstanding! You're a true trivia master! 🌟</p>
+            <button class="action-btn mt-2" onclick="app.showView('trivia-menu')">Play Again</button>
+        </section>
+
+    </main>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
