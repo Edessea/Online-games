@@ -1,0 +1,608 @@
+{
+  "easy": [
+    {
+      "question": "What is the name of the alternate dimension in Stranger Things?",
+      "options": [
+        "The Upside Down",
+        "The Nether",
+        "The Dark World",
+        "The Void"
+      ],
+      "answer": "The Upside Down"
+    },
+    {
+      "question": "What is Eleven's favorite food?",
+      "options": [
+        "Pizza",
+        "Eggo Waffles",
+        "Burgers",
+        "Ice Cream"
+      ],
+      "answer": "Eggo Waffles"
+    },
+    {
+      "question": "What game are the boys playing in the very first episode?",
+      "options": [
+        "Monopoly",
+        "Dungeons & Dragons",
+        "Magic: The Gathering",
+        "Risk"
+      ],
+      "answer": "Dungeons & Dragons"
+    },
+    {
+      "question": "What is the name of the fictional town where the show takes place?",
+      "options": [
+        "Riverdale",
+        "Hawkins",
+        "Derry",
+        "Springfield"
+      ],
+      "answer": "Hawkins"
+    },
+    {
+      "question": "Who is the Chief of Police in Hawkins?",
+      "options": [
+        "Jim Hopper",
+        "Bob Newby",
+        "Murray Bauman",
+        "Martin Brenner"
+      ],
+      "answer": "Jim Hopper"
+    },
+    {
+      "question": "What translates Morse code through Christmas lights?",
+      "options": [
+        "Nancy Wheeler",
+        "Joyce Byers",
+        "Mike Wheeler",
+        "Dustin Henderson"
+      ],
+      "answer": "Joyce Byers"
+    },
+    {
+      "question": "What pet does Dustin briefly adopt in Season 2?",
+      "options": [
+        "A Demodog named Dart",
+        "A turtle named Yertle",
+        "A cat named Mews",
+        "An iguana named Iggy"
+      ],
+      "answer": "A Demodog named Dart"
+    },
+    {
+      "question": "Where does Steve Harrington work in Season 3?",
+      "options": [
+        "Hawkins National Laboratory",
+        "Family Video",
+        "Scoops Ahoy",
+        "Starcourt Mall Security"
+      ],
+      "answer": "Scoops Ahoy"
+    },
+    {
+      "question": "Who has psychokinetic abilities and a shaved head in Season 1?",
+      "options": [
+        "Max",
+        "Will",
+        "Eleven",
+        "Mike"
+      ],
+      "answer": "Eleven"
+    },
+    {
+      "question": "What is the giant spider-like monster introduced in Season 2 called?",
+      "options": [
+        "The Demogorgon",
+        "The Mind Flayer",
+        "Vecna",
+        "The Thessalhydra"
+      ],
+      "answer": "The Mind Flayer"
+    },
+    {
+      "question": "What is the name of Dustin's girlfriend he meets at Camp Know Where?",
+      "options": [
+        "Suzie",
+        "Chrissy",
+        "Heather",
+        "Eden"
+      ],
+      "answer": "Suzie"
+    },
+    {
+      "question": "What color are the Demogorgon's teeth?",
+      "options": [
+        "White/Grey",
+        "Yellow",
+        "Black",
+        "Green"
+      ],
+      "answer": "White/Grey"
+    },
+    {
+      "question": "What toy does Eleven levitate in Mike's basement?",
+      "options": [
+        "Millennium Falcon",
+        "X-Wing",
+        "TIE Fighter",
+        "Death Star"
+      ],
+      "answer": "Millennium Falcon"
+    },
+    {
+      "question": "What does Joyce use to talk to Will in Season 1?",
+      "options": [
+        "Christmas lights",
+        "A walkie-talkie",
+        "A telephone",
+        "A Ouija board"
+      ],
+      "answer": "Christmas lights"
+    },
+    {
+      "question": "Who says 'Mornings are for coffee and contemplation'?",
+      "options": [
+        "Jim Hopper",
+        "Bob Newby",
+        "Mike Wheeler",
+        "Joyce Byers"
+      ],
+      "answer": "Jim Hopper"
+    },
+    {
+      "question": "What is Max's arcade username?",
+      "options": [
+        "MADMAX",
+        "MAXIMUM",
+        "REDHEAD",
+        "SKATERGIRL"
+      ],
+      "answer": "MADMAX"
+    },
+    {
+      "question": "Who is Will's older brother?",
+      "options": [
+        "Jonathan",
+        "Steve",
+        "Billy",
+        "Mike"
+      ],
+      "answer": "Jonathan"
+    },
+    {
+      "question": "What does Eleven call Jim Hopper?",
+      "options": [
+        "Hop",
+        "Dad",
+        "Jim",
+        "Chief"
+      ],
+      "answer": "Hop"
+    },
+    {
+      "question": "What kind of business does Bob Newby manage?",
+      "options": [
+        "RadioShack",
+        "Family Video",
+        "Scoops Ahoy",
+        "A hardware store"
+      ],
+      "answer": "RadioShack"
+    },
+    {
+      "question": "Who is Barb's best friend in Season 1?",
+      "options": [
+        "Nancy",
+        "Joyce",
+        "Robin",
+        "Carol"
+      ],
+      "answer": "Nancy"
+    }
+  ],
+  "medium": [
+    {
+      "question": "What is the name of the ice cream parlor at Starcourt Mall?",
+      "options": [
+        "Scoops Ahoy",
+        "Baskin-Robbins",
+        "Frosty's",
+        "Hawkins Ice Cream"
+      ],
+      "answer": "Scoops Ahoy"
+    },
+    {
+      "question": "What song saves Max from Vecna in Season 4?",
+      "options": [
+        "Should I Stay or Should I Go",
+        "Running Up That Hill",
+        "Material Girl",
+        "Africa"
+      ],
+      "answer": "Running Up That Hill"
+    },
+    {
+      "question": "What does 'Friends don't lie' mean to?",
+      "options": [
+        "Nancy",
+        "Max",
+        "Eleven",
+        "Will"
+      ],
+      "answer": "Eleven"
+    },
+    {
+      "question": "Who dies heroically protecting the group from Demodogs in Season 2?",
+      "options": [
+        "Barb",
+        "Bob Newby",
+        "Billy Hargrove",
+        "Dr. Alexei"
+      ],
+      "answer": "Bob Newby"
+    },
+    {
+      "question": "What was the name of Dustin's radio tower?",
+      "options": [
+        "Cerebro",
+        "The Antenna",
+        "Hawkins Radio",
+        "Eagle Eye"
+      ],
+      "answer": "Cerebro"
+    },
+    {
+      "question": "What arcade game does Max beat Dustin's high score on?",
+      "options": [
+        "Pac-Man",
+        "Dig Dug",
+        "Centipede",
+        "Donkey Kong"
+      ],
+      "answer": "Dig Dug"
+    },
+    {
+      "question": "What is the name of Billy Hargrove's younger step-sister?",
+      "options": [
+        "Nancy",
+        "Erica",
+        "Max",
+        "Robin"
+      ],
+      "answer": "Max"
+    },
+    {
+      "question": "Who runs the 'Surfer Boy Pizza' van?",
+      "options": [
+        "Jonathan",
+        "Steve",
+        "Argyle",
+        "Eddie"
+      ],
+      "answer": "Argyle"
+    },
+    {
+      "question": "What is the name of the role-playing club Eddie Munson runs?",
+      "options": [
+        "The Hellfire Club",
+        "The Dragons",
+        "The D20 Club",
+        "Hawkins Heroes"
+      ],
+      "answer": "The Hellfire Club"
+    },
+    {
+      "question": "What kind of weapon does Steve use effectively against the Demogorgon?",
+      "options": [
+        "A shotgun",
+        "A baseball bat with nails",
+        "A slingshot",
+        "A machete"
+      ],
+      "answer": "A baseball bat with nails"
+    },
+    {
+      "question": "What is the password to Castle Byers?",
+      "options": [
+        "Radagast",
+        "Gandalf",
+        "Elrond",
+        "Mirkwood"
+      ],
+      "answer": "Radagast"
+    },
+    {
+      "question": "What song do Dustin and Suzie sing together?",
+      "options": [
+        "The NeverEnding Story",
+        "Total Eclipse of the Heart",
+        "Material Girl",
+        "Africa"
+      ],
+      "answer": "The NeverEnding Story"
+    },
+    {
+      "question": "What is the name of the D&D monster in Season 1?",
+      "options": [
+        "The Demogorgon",
+        "The Thessalhydra",
+        "The Mind Flayer",
+        "Vecna"
+      ],
+      "answer": "The Demogorgon"
+    },
+    {
+      "question": "Who cracked the Russian code in Season 3?",
+      "options": [
+        "Robin",
+        "Dustin",
+        "Erica",
+        "Steve"
+      ],
+      "answer": "Robin"
+    },
+    {
+      "question": "How long was Will missing in the Upside Down?",
+      "options": [
+        "A week",
+        "Three days",
+        "Two weeks",
+        "One month"
+      ],
+      "answer": "A week"
+    },
+    {
+      "question": "What does Billy do during the summer in Hawkins?",
+      "options": [
+        "He's a lifeguard",
+        "He works at Scoop's Ahoy",
+        "He delivers newspapers",
+        "He runs a gym"
+      ],
+      "answer": "He's a lifeguard"
+    },
+    {
+      "question": "What happens to objects when they enter the Upside Down?",
+      "options": [
+        "They become cold and decayed",
+        "They turn invisible",
+        "They burst into flames",
+        "They become indestructible"
+      ],
+      "answer": "They become cold and decayed"
+    },
+    {
+      "question": "Who is the first person Vecna kills in Season 4?",
+      "options": [
+        "Chrissy Cunningham",
+        "Fred Benson",
+        "Patrick McKinney",
+        "Barb Holland"
+      ],
+      "answer": "Chrissy Cunningham"
+    },
+    {
+      "question": "What is the flavor of the Slurpee Alexei specifically asks for?",
+      "options": [
+        "Cherry",
+        "Strawberry",
+        "Blue Raspberry",
+        "Cola"
+      ],
+      "answer": "Cherry"
+    },
+    {
+      "question": "What does Erica Sinclair want in exchange for crawling through the vents?",
+      "options": [
+        "Free ice cream for life",
+        "A new bicycle",
+        "100 dollars",
+        "A walkie-talkie"
+      ],
+      "answer": "Free ice cream for life"
+    }
+  ],
+  "hard": [
+    {
+      "question": "What was the name of the research facility that created Eleven?",
+      "options": [
+        "Hawkins National Laboratory",
+        "Brenner Institute",
+        "Project MKUltra",
+        "Department of Energy"
+      ],
+      "answer": "Hawkins National Laboratory"
+    },
+    {
+      "question": "What are the names of the Russian scientist and the private detective in Season 3?",
+      "options": [
+        "Alexei and Murray",
+        "Ivan and Jim",
+        "Boris and Bob",
+        "Yuri and Arthur"
+      ],
+      "answer": "Alexei and Murray"
+    },
+    {
+      "question": "What state is the fictional town of Hawkins located in?",
+      "options": [
+        "Ohio",
+        "Indiana",
+        "Illinois",
+        "Michigan"
+      ],
+      "answer": "Indiana"
+    },
+    {
+      "question": "Which character famously said, 'You can't spell America without Erica'?",
+      "options": [
+        "Dustin",
+        "Steve",
+        "Erica",
+        "Lucas"
+      ],
+      "answer": "Erica"
+    },
+    {
+      "question": "What was the name of the mall introduced in Season 3?",
+      "options": [
+        "Hawkins Plaza",
+        "Starcourt Mall",
+        "Twin Pines Mall",
+        "The Galleria"
+      ],
+      "answer": "Starcourt Mall"
+    },
+    {
+      "question": "What number is tattooed on Kali, Eleven's 'sister'?",
+      "options": [
+        "007",
+        "008",
+        "009",
+        "010"
+      ],
+      "answer": "008"
+    },
+    {
+      "question": "What is Vecna's true identity?",
+      "options": [
+        "Dr. Brenner",
+        "Henry Creel / 001",
+        "Will Byers",
+        "The Mind Flayer"
+      ],
+      "answer": "Henry Creel / 001"
+    },
+    {
+      "question": "What instrument does Eddie Munson play in the Upside Down?",
+      "options": [
+        "Drums",
+        "Bass",
+        "Electric Guitar",
+        "Keyboard"
+      ],
+      "answer": "Electric Guitar"
+    },
+    {
+      "question": "In Season 1, what song does Jonathan Byers play for Will?",
+      "options": [
+        "Should I Stay or Should I Go",
+        "Every Breath You Take",
+        "Time After Time",
+        "Wake Me Up Before You Go-Go"
+      ],
+      "answer": "Should I Stay or Should I Go"
+    },
+    {
+      "question": "What is the name of the Russian smuggler in Season 4?",
+      "options": [
+        "Alexei",
+        "Dmitri",
+        "Yuri",
+        "Ivan"
+      ],
+      "answer": "Yuri"
+    },
+    {
+      "question": "What was the date Will Byers disappeared?",
+      "options": [
+        "November 6, 1983",
+        "October 31, 1983",
+        "November 11, 1984",
+        "October 28, 1983"
+      ],
+      "answer": "November 6, 1983"
+    },
+    {
+      "question": "What is the brand of the hairspray Steve uses?",
+      "options": [
+        "Farrah Fawcett",
+        "Aqua Net",
+        "L'Oreal",
+        "Vidal Sassoon"
+      ],
+      "answer": "Farrah Fawcett"
+    },
+    {
+      "question": "What was the name of the Hawkins middle school science teacher?",
+      "options": [
+        "Mr. Clarke",
+        "Mr. Henderson",
+        "Mr. Harris",
+        "Mr. Wheeler"
+      ],
+      "answer": "Mr. Clarke"
+    },
+    {
+      "question": "In what city was Eleven's sister Kali operating?",
+      "options": [
+        "Chicago",
+        "New York",
+        "Los Angeles",
+        "Detroit"
+      ],
+      "answer": "Chicago"
+    },
+    {
+      "question": "What classical composer's music is played by Dr. Brenner?",
+      "options": [
+        "Brahms",
+        "Beethoven",
+        "Mozart",
+        "Bach"
+      ],
+      "answer": "Brahms"
+    },
+    {
+      "question": "What is the specific address of the Byers house?",
+      "options": [
+        "149 Corliss",
+        "4819 Cherry Lane",
+        "12 Grimmauld Place",
+        " Elm Street"
+      ],
+      "answer": "149 Corliss"
+    },
+    {
+      "question": "What does a 'Code Red' mean to the party?",
+      "options": [
+        "Immediate danger",
+        "Meet at the basement",
+        "Parents are listening",
+        "Aliens attack"
+      ],
+      "answer": "Immediate danger"
+    },
+    {
+      "question": "What is the name of the D&D character played by Eddie Munson?",
+      "options": [
+        "Kas",
+        "Loridas",
+        "Elminster",
+        "Drizzt"
+      ],
+      "answer": "Kas"
+    },
+    {
+      "question": "Who was the editor of the Hawkins Post?",
+      "options": [
+        "Tom Holloway",
+        "Bruce Lowe",
+        "Murray Bauman",
+        "Donald Chapman"
+      ],
+      "answer": "Tom Holloway"
+    },
+    {
+      "question": "What color was the hazmat suit Hopper found in the tunnels in Season 2?",
+      "options": [
+        "Yellow",
+        "Orange",
+        "White",
+        "Blue"
+      ],
+      "answer": "Yellow"
+    }
+  ]
+}

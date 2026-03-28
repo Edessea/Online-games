@@ -1,0 +1,608 @@
+{
+  "easy": [
+    {
+      "question": "What is the name of Harry Potter's pet owl?",
+      "options": [
+        "Hedwig",
+        "Errol",
+        "Pigwidgeon",
+        "Crookshanks"
+      ],
+      "answer": "Hedwig"
+    },
+    {
+      "question": "Which Hogwarts house is Harry Potter sorted into?",
+      "options": [
+        "Slytherin",
+        "Ravenclaw",
+        "Hufflepuff",
+        "Gryffindor"
+      ],
+      "answer": "Gryffindor"
+    },
+    {
+      "question": "What position does Harry play on his Quidditch team?",
+      "options": [
+        "Chaser",
+        "Beater",
+        "Keeper",
+        "Seeker"
+      ],
+      "answer": "Seeker"
+    },
+    {
+      "question": "Who is the Headmaster of Hogwarts in Harry's first year?",
+      "options": [
+        "Severus Snape",
+        "Albus Dumbledore",
+        "Minerva McGonagall",
+        "Rubeus Hagrid"
+      ],
+      "answer": "Albus Dumbledore"
+    },
+    {
+      "question": "What magical object sorting students into their houses?",
+      "options": [
+        "The Goblet of Fire",
+        "The Sorting Hat",
+        "The Elder Wand",
+        "The Marauder's Map"
+      ],
+      "answer": "The Sorting Hat"
+    },
+    {
+      "question": "Who are Harry's two best friends?",
+      "options": [
+        "Draco and Pansy",
+        "Crabbe and Goyle",
+        "Ron and Hermione",
+        "Fred and George"
+      ],
+      "answer": "Ron and Hermione"
+    },
+    {
+      "question": "What is the name of the train that takes students to Hogwarts?",
+      "options": [
+        "The Knight Bus",
+        "The Hogwarts Express",
+        "The Flying Ford Anglia",
+        "The Magic Metro"
+      ],
+      "answer": "The Hogwarts Express"
+    },
+    {
+      "question": "What animal does a Patronus charm take the shape of for Harry?",
+      "options": [
+        "A Stag",
+        "A Dog",
+        "An Otter",
+        "A Phoenix"
+      ],
+      "answer": "A Stag"
+    },
+    {
+      "question": "What is the shape of Harry's scar?",
+      "options": [
+        "A star",
+        "A crescent moon",
+        "A lightning bolt",
+        "A circle"
+      ],
+      "answer": "A lightning bolt"
+    },
+    {
+      "question": "What dark wizard is known as 'He Who Must Not Be Named'?",
+      "options": [
+        "Lucius Malfoy",
+        "Salazar Slytherin",
+        "Gellert Grindelwald",
+        "Lord Voldemort"
+      ],
+      "answer": "Lord Voldemort"
+    },
+    {
+      "question": "Who represents Hufflepuff in the Triwizard Tournament?",
+      "options": [
+        "Cedric Diggory",
+        "Zacharias Smith",
+        "Ernie Macmillan",
+        "Justin Finch-Fletchley"
+      ],
+      "answer": "Cedric Diggory"
+    },
+    {
+      "question": "What kind of creature is Aragog?",
+      "options": [
+        "Acromantula",
+        "Basilisk",
+        "Hippogriff",
+        "Blast-Ended Skrewt"
+      ],
+      "answer": "Acromantula"
+    },
+    {
+      "question": "Who is the ghost of Slytherin house?",
+      "options": [
+        "The Bloody Baron",
+        "Nearly Headless Nick",
+        "The Fat Friar",
+        "The Grey Lady"
+      ],
+      "answer": "The Bloody Baron"
+    },
+    {
+      "question": "What is the name of Hagrid's boarhound?",
+      "options": [
+        "Fang",
+        "Fluffy",
+        "Norbert",
+        "Buckbeak"
+      ],
+      "answer": "Fang"
+    },
+    {
+      "question": "What magical sport is played on flying broomsticks?",
+      "options": [
+        "Quidditch",
+        "Gobstones",
+        "Wizard's Chess",
+        "Exploding Snap"
+      ],
+      "answer": "Quidditch"
+    },
+    {
+      "question": "Which family does Dobby originally serve?",
+      "options": [
+        "The Malfoys",
+        "The Blacks",
+        "The Lestranges",
+        "The Crouches"
+      ],
+      "answer": "The Malfoys"
+    },
+    {
+      "question": "What is the name of the wizarding bank in London?",
+      "options": [
+        "Gringotts",
+        "The Leaky Cauldron",
+        "Ollivanders",
+        "Borgin and Burkes"
+      ],
+      "answer": "Gringotts"
+    },
+    {
+      "question": "What color is the Gryffindor house crest?",
+      "options": [
+        "Red and Gold",
+        "Blue and Bronze",
+        "Green and Silver",
+        "Yellow and Black"
+      ],
+      "answer": "Red and Gold"
+    },
+    {
+      "question": "Who leaves Harry the Invisibility Cloak?",
+      "options": [
+        "Albus Dumbledore",
+        "Sirius Black",
+        "Severus Snape",
+        "Remus Lupin"
+      ],
+      "answer": "Albus Dumbledore"
+    },
+    {
+      "question": "What phrase activates the Marauder's Map?",
+      "options": [
+        "I solemnly swear that I am up to no good",
+        "Mischief managed",
+        "Lumos Maxima",
+        "Open Sesame"
+      ],
+      "answer": "I solemnly swear that I am up to no good"
+    }
+  ],
+  "medium": [
+    {
+      "question": "What is the core of Harry Potter's wand?",
+      "options": [
+        "Dragon heartstring",
+        "Unicorn hair",
+        "Phoenix feather",
+        "Thestral tail hair"
+      ],
+      "answer": "Phoenix feather"
+    },
+    {
+      "question": "Who is the Half-Blood Prince?",
+      "options": [
+        "Lord Voldemort",
+        "Tom Riddle",
+        "Albus Dumbledore",
+        "Severus Snape"
+      ],
+      "answer": "Severus Snape"
+    },
+    {
+      "question": "What spell is used to disarm an opponent?",
+      "options": [
+        "Expelliarmus",
+        "Stupefy",
+        "Lumos",
+        "Alohomora"
+      ],
+      "answer": "Expelliarmus"
+    },
+    {
+      "question": "What is the name of the poltergeist at Hogwarts?",
+      "options": [
+        "Nearly Headless Nick",
+        "Peeves",
+        "The Bloody Baron",
+        "Moaning Myrtle"
+      ],
+      "answer": "Peeves"
+    },
+    {
+      "question": "Which of these is NOT one of the Unforgivable Curses?",
+      "options": [
+        "Cruciatus Curse",
+        "Imperius Curse",
+        "Killing Curse",
+        "Sectumsempra"
+      ],
+      "answer": "Sectumsempra"
+    },
+    {
+      "question": "What dark object allows someone to hide a piece of their soul?",
+      "options": [
+        "A Bezoar",
+        "A Horcrux",
+        "A Time-Turner",
+        "A Pensieve"
+      ],
+      "answer": "A Horcrux"
+    },
+    {
+      "question": "Who teaches Herbology at Hogwarts?",
+      "options": [
+        "Professor Flitwick",
+        "Professor Sprout",
+        "Professor Binns",
+        "Professor Trelawney"
+      ],
+      "answer": "Professor Sprout"
+    },
+    {
+      "question": "What type of creature is Dobby?",
+      "options": [
+        "A Goblin",
+        "A Centaur",
+        "A House-Elf",
+        "A Boggart"
+      ],
+      "answer": "A House-Elf"
+    },
+    {
+      "question": "What potion grants the drinker good luck?",
+      "options": [
+        "Polyjuice Potion",
+        "Amortentia",
+        "Felix Felicis",
+        "Veritaserum"
+      ],
+      "answer": "Felix Felicis"
+    },
+    {
+      "question": "What is the secret platform at King's Cross Station?",
+      "options": [
+        "Platform 9",
+        "Platform 10",
+        "Platform 9 3/4",
+        "Platform 7 1/2"
+      ],
+      "answer": "Platform 9 3/4"
+    },
+    {
+      "question": "What ingredient is not in a Polyjuice Potion?",
+      "options": [
+        "Dittany",
+        "Fluxweed",
+        "Knotgrass",
+        "Boomslang skin"
+      ],
+      "answer": "Dittany"
+    },
+    {
+      "question": "What is the real name of Voldemort?",
+      "options": [
+        "Tom Marvolo Riddle",
+        "Gellert Grindelwald",
+        "Lucius Malfoy",
+        "Salazar Slytherin"
+      ],
+      "answer": "Tom Marvolo Riddle"
+    },
+    {
+      "question": "Who wrote 'Advanced Potion-Making'?",
+      "options": [
+        "Libatius Borage",
+        "Severus Snape",
+        "Arsenius Jigger",
+        "Phyllida Spore"
+      ],
+      "answer": "Libatius Borage"
+    },
+    {
+      "question": "What position does Ginny Weasley play on the Gryffindor Quidditch team professionally?",
+      "options": [
+        "Chaser",
+        "Seeker",
+        "Keeper",
+        "Beater"
+      ],
+      "answer": "Chaser"
+    },
+    {
+      "question": "What is the incantation for the Patronus Charm?",
+      "options": [
+        "Expecto Patronum",
+        "Expelliarmus",
+        "Riddikulus",
+        "Accio"
+      ],
+      "answer": "Expecto Patronum"
+    },
+    {
+      "question": "Who destroys the Ravenclaw Diadem horcrux?",
+      "options": [
+        "Crabbe (via Fiendfyre)",
+        "Harry Potter",
+        "Ron Weasley",
+        "Hermione Granger"
+      ],
+      "answer": "Crabbe (via Fiendfyre)"
+    },
+    {
+      "question": "What magical object reveals your deepest desires?",
+      "options": [
+        "The Mirror of Erised",
+        "The Pensieve",
+        "The Remembrall",
+        "The Marauder's Map"
+      ],
+      "answer": "The Mirror of Erised"
+    },
+    {
+      "question": "Which Peverell brother received the Resurrection Stone?",
+      "options": [
+        "Cadmus",
+        "Antioch",
+        "Ignotus",
+        "Gellert"
+      ],
+      "answer": "Cadmus"
+    },
+    {
+      "question": "Where does the Dumbledore's Army meet?",
+      "options": [
+        "The Room of Requirement",
+        "The Shrieking Shack",
+        "The Gryffindor Common Room",
+        "The Owlery"
+      ],
+      "answer": "The Room of Requirement"
+    },
+    {
+      "question": "Who takes Hermione to the Yule Ball?",
+      "options": [
+        "Viktor Krum",
+        "Ron Weasley",
+        "Harry Potter",
+        "Neville Longbottom"
+      ],
+      "answer": "Viktor Krum"
+    }
+  ],
+  "hard": [
+    {
+      "question": "What is the name of Voldemort's grandfather (on his mother's side)?",
+      "options": [
+        "Tom Riddle Sr.",
+        "Marvolo Gaunt",
+        "Morfin Gaunt",
+        "Salazar Slytherin"
+      ],
+      "answer": "Marvolo Gaunt"
+    },
+    {
+      "question": "In determining the winner of the Triwizard Tournament, what is the maximum number of points a single judge can give in a task?",
+      "options": [
+        "10",
+        "50",
+        "100",
+        "20"
+      ],
+      "answer": "10"
+    },
+    {
+      "question": "What was the name of the Black family's house-elf before Dobby?",
+      "options": [
+        "Kreacher",
+        "Winky",
+        "Hokey",
+        "Blinky"
+      ],
+      "answer": "Kreacher"
+    },
+    {
+      "question": "What magical plant lets a wizard breathe underwater?",
+      "options": [
+        "Mandrake",
+        "Gillyweed",
+        "Devil's Snare",
+        "Fluxweed"
+      ],
+      "answer": "Gillyweed"
+    },
+    {
+      "question": "Who was the first person to escape from Azkaban?",
+      "options": [
+        "Sirius Black",
+        "Barty Crouch Jr.",
+        "Bellatrix Lestrange",
+        "Antonin Dolohov"
+      ],
+      "answer": "Barty Crouch Jr."
+    },
+    {
+      "question": "What is the name of the goblin who helps Harry break into Gringotts?",
+      "options": [
+        "Bogrod",
+        "Griphook",
+        "Ragnok",
+        "Gornuk"
+      ],
+      "answer": "Griphook"
+    },
+    {
+      "question": "Which centaur rescues Harry from Voldemort in the Forbidden Forest in his first year?",
+      "options": [
+        "Bane",
+        "Ronan",
+        "Firenze",
+        "Magorian"
+      ],
+      "answer": "Firenze"
+    },
+    {
+      "question": "What spell does Hermione use to conceal her parents' memories of her?",
+      "options": [
+        "Obliviate",
+        "Confundo",
+        "Muffliato",
+        "Repello Muggletum"
+      ],
+      "answer": "Obliviate"
+    },
+    {
+      "question": "Who wrote 'A History of Magic'?",
+      "options": [
+        "Newt Scamander",
+        "Bathilda Bagshot",
+        "Miranda Goshawk",
+        "Phyllida Spore"
+      ],
+      "answer": "Bathilda Bagshot"
+    },
+    {
+      "question": "What is the five-digit code to enter the Ministry of Magic through the visitor's entrance?",
+      "options": [
+        "62442",
+        "73556",
+        "31415",
+        "81992"
+      ],
+      "answer": "62442"
+    },
+    {
+      "question": "What number is Harry's vault at Gringotts?",
+      "options": [
+        "687",
+        "713",
+        "394",
+        "422"
+      ],
+      "answer": "687"
+    },
+    {
+      "question": "What is the password to the prefects' bathroom?",
+      "options": [
+        "Pine Fresh",
+        "Caput Draconis",
+        "Mimbulus Mimbletonia",
+        "Fairy Lights"
+      ],
+      "answer": "Pine Fresh"
+    },
+    {
+      "question": "Who was the Muggle Studies teacher murdered by Voldemort?",
+      "options": [
+        "Charity Burbage",
+        "Alecto Carrow",
+        "Quirinus Quirrell",
+        "Silvanus Kettleburn"
+      ],
+      "answer": "Charity Burbage"
+    },
+    {
+      "question": "How many staircases are there at Hogwarts?",
+      "options": [
+        "142",
+        "112",
+        "163",
+        "128"
+      ],
+      "answer": "142"
+    },
+    {
+      "question": "What type of wood is Ron's second wand made of?",
+      "options": [
+        "Willow",
+        "Ash",
+        "Cherry",
+        "Mahogany"
+      ],
+      "answer": "Willow"
+    },
+    {
+      "question": "What does S.P.E.W. stand for?",
+      "options": [
+        "Society for the Promotion of Elfish Welfare",
+        "Society for the Protection of Elfish Workers",
+        "Secret Potion Enforcement Wizards",
+        "Students Protecting Endangered Wildlife"
+      ],
+      "answer": "Society for the Promotion of Elfish Welfare"
+    },
+    {
+      "question": "Who is the author of 'Magical Drafts and Potions'?",
+      "options": [
+        "Arsenius Jigger",
+        "Libatius Borage",
+        "Bathilda Bagshot",
+        "Newt Scamander"
+      ],
+      "answer": "Arsenius Jigger"
+    },
+    {
+      "question": "What is the name of Dumbledore's younger sister?",
+      "options": [
+        "Ariana",
+        "Kendra",
+        "Honoria",
+        "Aberforth"
+      ],
+      "answer": "Ariana"
+    },
+    {
+      "question": "What is the command to make a wand emit a burst of green sparks?",
+      "options": [
+        "Verdimillious",
+        "Periculum",
+        "Lumos",
+        "Incendio"
+      ],
+      "answer": "Verdimillious"
+    },
+    {
+      "question": "How much does a ticket on the Knight Bus from Little Whinging to London cost?",
+      "options": [
+        "11 Sickles",
+        "10 Galleons",
+        "15 Knuts",
+        "5 Sickles"
+      ],
+      "answer": "11 Sickles"
+    }
+  ]
+}
